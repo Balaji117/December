@@ -14,5 +14,6 @@ public static void main(String[] args)
 	Shop paper = new Shop();
 	paper.price = 1;
 	System.out.println("Pencil price is "  + pencil.price);
+	
 }
 }
